@@ -24,6 +24,7 @@ public class ejercicio1 {
         String path = sc.nextLine();
         System.out.print(leerArchivo(path));
         //cambios para segundo commit
+        //cambios para la prueba con git kraken
     }
     public static String leerArchivo(String path){
         String linea;
