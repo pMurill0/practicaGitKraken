@@ -23,6 +23,7 @@ public class ejercicio1 {
         System.out.println("Dame la ruta del fichero");
         String path = sc.nextLine();
         System.out.print(leerArchivo(path));
+        //cambios para segundo commit
     }
     public static String leerArchivo(String path){
         String linea;
